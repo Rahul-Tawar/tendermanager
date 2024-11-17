@@ -9,10 +9,10 @@ The Tender Management System is a comprehensive web application designed to stre
 ## Screenshots
 
 1. Lander Page
-![Lander Page](backend/public/Tender-manager.png)
+![Lander Page](backend/public/TenderManager.png)
 
 2. Create Tender Page
-![Create Tender Page](backend/public/Create-tender.png)
+![Create Tender Page](backend/public/create-tender-manager.png)
 
 3. Login Page
 ![Login Page](backend/public/login-tender-manager.png)
