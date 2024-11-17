@@ -24,6 +24,8 @@ export const Footer = () => {
       </nav>
     </div>
   </footer>
+  </div>
+  </footer>
   )
 }
 
