@@ -8,7 +8,7 @@ export const loginUser = createAsyncThunk(
     try {
       console.log('function mounted')
       console.log('email', email, 'password', password);
-      const response = await axios.post('http://localhost:3000/api/auth/login', 
+      const response = await axios.post('http://:3000/api/auth/login', 
         { email, password },
 
         {

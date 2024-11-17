@@ -6,6 +6,18 @@
 
 The Tender Management System is a comprehensive web application designed to streamline the process of creating, managing, and evaluating tenders. It consists of a robust backend API built with Node.js and Express, and a user-friendly frontend developed using React, Vite, and Redux. This system allows users to sign up, create tenders, submit bids, and manage the entire evaluation process efficiently. With features like document upload, user authentication, and a responsive interface, it provides a complete solution for organizations dealing with tender management.
 
+## Screenshots
+
+1. Lander Page
+![Lander Page](backend/public/Tender-manager.png)
+
+2. Create Tender Page
+![Create Tender Page](backend/public/Create-tender.png)
+
+3. Login Page
+![Login Page](backend/public/login-tender-manager.png)
+
+
 ## backend
 
 This project is a RESTful API for a Tender Management System. It allows users to sign up, log in, create tenders, submit bids, and manage the evaluation process. The API is built using Node.js and Express, with MySQL as the database and Sequelize as the ORM.

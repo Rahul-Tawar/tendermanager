@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node src/app.js",
     "dev": "nodemon src/app.js",
-    "test": ""
+    "test": "",
+    "migrate":"sequelize db:migrate"
   },
   "keywords": [],
   "author": "",
