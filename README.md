@@ -1,7 +1,5 @@
 # Tender Management System 
 
-![kritikal-logo](backend/public/KritiKal-logo.png)
-
 ## Overview
 
 The Tender Management System is a comprehensive web application designed to streamline the process of creating, managing, and evaluating tenders. It consists of a robust backend API built with Node.js and Express, and a user-friendly frontend developed using React, Vite, and Redux. This system allows users to sign up, create tenders, submit bids, and manage the entire evaluation process efficiently. With features like document upload, user authentication, and a responsive interface, it provides a complete solution for organizations dealing with tender management.
